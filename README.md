@@ -14,7 +14,7 @@ Hello Word, I'm Seline 💖
   <img align="right" alt="Sese-pic" height="150" style="border-radius:50px;" 
   src=https://media.discordapp.net/attachments/1020182985166835764/1020183271587463178/Sesegif.png?width=401&height=401
  
-  ![Snake animation](https://github.com/SeseMendes/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/SeseMendes/SeseMendes/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ##
